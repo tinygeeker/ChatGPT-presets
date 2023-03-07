@@ -1,4 +1,4 @@
-# python-spiders
+# ChatGPT-presets
 🌈  ChatGPT的一些预设包：DAN机器人、猫娘、丁真、律师、诗人、辩论家、小说家等等
 
 ## 项目使用
