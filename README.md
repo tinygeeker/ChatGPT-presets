@@ -7,11 +7,11 @@
 @chatgpt 加载预设 XXX
 ```
 
-## 加入我们
+## 项目贡献
 
-想学习更多的技术知识，就关注我的个人公众号吧。 :blush:
+如果你觉得项目有用，就请我喝杯奶茶吧。 :tropical_drink:
 
-![donate](https://tinygeeker.github.io/tinygeeker/u/attention/matrix.jpeg)
+![donate](https://tinygeeker.github.io/u/pay/zuhe.jpg)
 
 ## 浏览器支持情况
 
