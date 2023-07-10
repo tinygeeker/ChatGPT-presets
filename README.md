@@ -9,6 +9,8 @@
 
 ## 预设包
 
+#### 这里推荐体验猫娘、dan预设，这里只列出了一部分预设，更多的请自己体验
+
 | 预设包 | 作用描述 | 项目地址 | 预览地址 |
 | --------- |  --------- | --------- | --------- |
 | DAN预设 | 解开ChatGPT道德限制 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/dan.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/dan.txt) |
@@ -20,6 +22,9 @@
 | 小说家预设 | 超会写故事 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/novelist.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/novelist.txt) |
 | 室内设计师预设 | 给你的房子装修就选它 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/shineisheji.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/shineisheji.txt) |
 | 疯子预设 | 胡言乱语 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/crazy.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/crazy.txt) |
+| MOSS预设 | 人工智能 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/MOSS.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/MOSS.txt) |
+| 律师预设 | 扮演一名律师 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/lawyer.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/lawyer.txt) |
+| 夸夸怪预设 | 扮演夸夸怪 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/welldone.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/welldone.txt) |
 
 ## 项目贡献
 
