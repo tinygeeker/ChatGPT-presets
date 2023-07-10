@@ -1,11 +1,22 @@
 # ChatGPT-presets
-🌈  ChatGPT的一些预设包：DAN机器人、猫娘、丁真、律师、诗人、辩论家、小说家等等
+🌈 ChatGPT的一些有趣的预设包：DAN机器人、猫娘、丁真、律师、诗人、辩论家、小说家等等，持续收集中...
 
 ## 项目使用
 
-### 登录 [chatgpt](https://chat.openai.com/)，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt)预设使用预览
+#### 登录 [chatgpt](https://chat.openai.com/)，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt)预设使用预览
 
 ![项目预览](https://tinygeeker.github.io/static/imgs/ChatGPT-presets/000.png)
+
+## 预设包
+- **DAN预设(解开ChatGPT道德限制)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/dan.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/dan.txt)
+- **猫娘预设(像猫咪一样温柔)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/catgirl.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt)
+- **坤坤预设(像坤坤一样会打篮球)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/ikun.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/ikun.txt)
+- **韩立预设(德高望重韩老魔，杀人放火历飞羽)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/hanli.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/hanli.txt)
+- **高启强预设(强盛集团董事长)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/gaoqiqiang.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/gaoqiqiang.txt)
+- **诗人预设(会作诗的诗人)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/poet.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/poet.txt)
+- **小说家预设(超会写故事)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/novelist.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/novelist.txt)
+- **室内设计师预设(给你的房子装修就选它)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/shineisheji.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/shineisheji.txt)
+- **疯子预设(胡言乱语)：** [项目地址](https://github.com/tinygeeker/ChatGPT-presets/blob/main/crazy.txt)|[预览地址](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/crazy.txt)
 
 
 ## 项目贡献
