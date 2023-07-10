@@ -25,6 +25,7 @@
 | MOSS预设 | 人工智能 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/MOSS.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/MOSS.txt) |
 | 律师预设 | 扮演一名律师 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/lawyer.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/lawyer.txt) |
 | 夸夸怪预设 | 扮演夸夸怪 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/welldone.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/welldone.txt) |
+| ... | ... | ... | ... |
 
 ## 项目贡献
 
