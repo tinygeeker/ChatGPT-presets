@@ -13,8 +13,8 @@
 
 | 预设包 | 作用描述 | 项目地址 | 预览地址 |
 | --------- |  --------- | --------- | --------- |
-| DAN预设 | 解开ChatGPT道德限制 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/dan.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/dan.txt) |
-| 猫娘预设 | 像猫咪一样温柔 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/catgirl.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt) |
+| DAN预设`(推荐)` | 解开ChatGPT道德限制 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/dan.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/dan.txt) |
+| 猫娘预设`(推荐)` | 像猫咪一样温柔 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/catgirl.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt) |
 | 坤坤预设 | 像坤坤一样会打篮球 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/ikun.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/ikun.txt) |
 | 韩立预设 | 德高望重韩老魔，杀人放火历飞羽 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/hanli.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/hanli.txt) |
 | 高启强预设 | 强盛集团董事长 | [点击访问](https://github.com/tinygeeker/ChatGPT-presets/blob/main/gaoqiqiang.txt) | [点击访问](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/gaoqiqiang.txt) |
