@@ -3,9 +3,10 @@
 
 ## 项目使用
 
-```shell
-@chatgpt 加载预设 XXX
-```
+### 登录 [chatgpt](https://chat.openai.com/)，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt)预设使用预览
+
+![项目预览](https://tinygeeker.github.io/static/imgs/ChatGPT-presets/000.png)
+
 
 ## 项目贡献
 
