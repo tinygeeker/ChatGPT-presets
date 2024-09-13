@@ -43,4 +43,4 @@
 
 [MIT](https://github.com/tinygeeker/ChatGPT-presets/blob/main/LICENSE)
 
-Copyright (c) 2021-present tinygeeker
+Copyright (c) 2021-now tinygeeker
