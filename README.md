@@ -5,7 +5,7 @@
 
 #### 登录 [chatgpt](https://chat.openai.com/)，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/ChatGPT-presets/main/catgirl.txt)预设使用预览
 
-![项目预览](https://tinygeeker.github.io/static/imgs/ChatGPT-presets/000.png)
+![项目预览](https://tinygeeker.github.io/static/imgs/ChatGPT-presets/001.png)
 
 ## 预设包
 
@@ -31,7 +31,7 @@
 
 如果你觉得项目有用，就请我喝杯奶茶吧。 :tropical_drink:
 
-![donate](https://tinygeeker.github.io/my/pay/group.jpg)
+![donate](https://tinygeeker.github.io/userinfo/donate/multiple.jpg)
 
 ## 浏览器支持情况
 
